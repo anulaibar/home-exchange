@@ -6,7 +6,7 @@ The key to our apartment is at our neighbours place - Jimmy Jansson & Victoria N
 They are on vacation, but their son Julius is at home and ready to hand you the keys.
 He's expecting you at 3 pm on the 12th. His phone number is [tel:072 248 16 07](072 248 16 07).
 
-## Public transport
+### Public transport
 
 Stockholm Local traffic, SL:
   - [Trip planner](http://sl.se/en/)
@@ -24,14 +24,14 @@ You can either walk the one stop from _Gullmarsplan_ to _Globen_ - around 600 me
 Or, you can take the _tvärbanan_ tram three stops from _Gullmarsplan_ to _Linde_ and then walk from there, ~700 meters to our apartment.
 Perhaps there are also replacement buses, the information desk can give you any information you need.
 
-## Bedrooms
+### Bedrooms
 
 We made the beds with clean linen. At the end of the stay you can just strip the beds and put them in the bathroom, and we will take care or the washing up.
 
-## Bathroom
+### Bathroom
 There are clean towels in the wall cabinet. The washing powder is also in the cabinet.
 
-## Kitchen
+### Kitchen
 
 Recycling is divided into regular trash, food scraps (brown paper bags), plastics, metal, batteries, glass, colored glass, paper and cardboard.
 The bins are underneath the sink, except for paper/cardboard which are in the linen cupboard, opposite Vide’s room.
@@ -39,7 +39,7 @@ The garbage room is to the right of the entrance of the opposite building, numbe
 There is also a percolator for coffee in the cupboard above the freezer.
 Please take what you like in the cupboard, fridge and freezer.
 
-## Livingroom
+### Livingroom
 
 To use the TV set, open the cabinet and turn on the red power switch. Then use the Samsung remote to choose source.
 The digital box is on ‘Ext.’ and you change channels with the Motorola remote.
@@ -48,13 +48,13 @@ The Apple TV is on ’HDMI1’ and the PS3 on ‘HDMI2’.
 Our WiFi is called ’BigHero6’ and the password is ‘oriavehl’. In case of connectivity issues try powering the router off and on again.
 The router is in the closet behind our bedroom.
 
-## Patio
+### Patio
 
 There's been construction work on our building during may-june, and it's not yet finished.
 I think the patio will be in ok shape by the time you arrive, but I don't think the furniture will be put back in place by the construction workers.
 If you want to sit there you can just arrange the sofa and the table so that you can use them.
 
-## Places to visit
+### Places to visit
 
 We’ve put together a map of different places in our neighborhood and around Stockholm.
 Everything from grocery stores to museums and outdoor activities.
