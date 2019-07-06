@@ -8,7 +8,7 @@ He's expecting you at 3 pm on the 12th. His phone number is 072 248 16 07
 
 ## Public transport
 
-Stockholm Local traffic - SL:
+Stockholm Local traffic, SL:
   - [Trip planner](http://sl.se/en/)
   - [Fares](http://sl.se/en/fares--tickets/)
 
