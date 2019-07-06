@@ -1,80 +1,63 @@
-#Welcome to our home, we hope you will enjoy your stay!
+# Welcome to our home, we hope you will enjoy your stay!
 
-Our address is Odelbergsvägen 36, Enskede gård. The entry code for the front door is
-2007 and works until 22:00, after that you use the apartment key to enter. The key is
-inside the blue sofa on our patio. You take to the left when exiting the subway station
-and we live in the yellow house right in front of you. Follow the gravel path to the left
-of the building into the park and our patio is the second one with no fence at the end
-of the building. Here’s a google street view of the path leading into the park -
-https://goo.gl/maps/mQpktzLXP9J2
-Our neighbours Lina & Martin have a spare key to our apartment. Their phone
-numbers are:
-Lina Rönning 070 448 70 58
-Martin Hansson 072 526 38 38
+Our address is Odelbergsvägen 36, Enskede gård.
+The entry code for the front door is **1472** and works until 10 PM - after that you use the apartment key to enter.
+The key to our apartment is at our neighbours place - Jimmy Jansson & Victoria Nordahl.
+They are on vacation, but their son Julius is at home and ready to hand you the keys.
+He's expecting you at 3 pm on the 12th. His phone number is 072 248 16 07
 
-Public transport
-Stockholm Local traffic, SL
-Trip planner: http://sl.se/en/
-Fares: http://sl.se/en/fares--tickets/
-The closes subway stop is Enskede Gård, 100m from our home. It’s on the green line
-#19 towards Hagsätra. We left four access cards on the kitchen table. They can be
-charged with travel credits - “reskassa” - in the vending machine at the subway stop.
-The one marked with an “X” is setup for regular fare, for the others you choose
-regular for adult and reduced for the kids when you charge the cards. The cards can
-be used on subway, trams and buses.
-The tram line is called Tvärbanan and our closest stop, Linde, is 700m away. The
-tram is closed this summer for maintenance work and has a replacement bus with
-number 22B.
+## Public transport
 
-Taxi
-Taxi from Arlanda is about 650SEK.
-The main taxi company is Taxi Stockholm, http://www.taxistockholm.se, 08 15 00
-00.
+Stockholm Local traffic - SL:
+  - [Trip planner](http://sl.se/en/)
+  - [Fares](http://sl.se/en/fares--tickets/)
 
-The car
-Our car is parked in parking spot 3 facing the park. It’s a silver Toyota Corolla Verso
-with FOX 506 on the plate. It has manual gear. It uses 95 octane petrol and there’s a
+You ned an _access card_ for public transport which you buy for 20 SEK at the infomation desk at the central station where you arrive with your train.
+The information desk is located one floor down from the central station main hall.
+The access card can then be charged with travel credits - “reskassa” - at the vending machines available at subway gates.
 
-small lever down by the floor to the left of the driver’s seat which opens the gas cap.
-There’s a driver’s manual in the glove compartment.
-It’s insured and you don’t need any ownership papers, it’s enough to bring your
-driver’s license while driving. The car key is on the kitchen table and there’s a spare
-key in the wall cabinet next to the freezer.
+Our closest subway stop is _Enskede Gård_, 100 meters from our home.
+It’s on the green line **#19** towards _Hagsätra_
 
-Bedrooms
-We made the beds with clean linens. At the end of the stay you can just strip the beds
-and put them in the bathroom, and we will take care or the washing up. We didn’t
-make Vide’s bed, but feel free to use it if you like.
-Bathroom
-There are clean towels hanging in the bathroom and more in the wall cabinet. The
-washing powder is also in the cabinet.
-Kitchen
-Recycling is divided into regular trash, food scraps (brown paper bags), plastics,
-metal, batteries, glass, colored glass, paper and cardboard. The bins are underneath
-the sink, except for paper/cardboard which are in the linen cupboard, opposite Vide’s
-room. The garbage room is to the right of the entrance of the opposite building,
-number 34, and you use the apartment key to get in.
-The espresso machine is powered using the left lever. Wait ~10 minutes for it to heat
-up (the thermometer is broken), then toggle the middle lever. For cappuccino turn
-the black wheel on the right hand side to release the steam.
-There is also a percolator in the cupboard above the freezer.
-Please take what you like in the fridge. And above the fridge there is some wine and
-liquor - including a 60%(!) Swedish whiskey if you’d like to try. Please help
-yourselves.
+Unfortunately line #19 is closed between _Gullmarsplan_ and _Globen_ for construction work during summer.
+You can either walk the one stop from _Gullmarsplan_ to _Globen_ - around 600 meters - and then take the subway again another stop from _Globen_ to _Enskede Gård_.
+Or, you can take the _tvärbanan_ tram three stops from _Gullmarsplan_ to _Linde_ and then walk from there, ~700 meters to our apartment.
+Perhaps there are also replacement buses, the information desk can give you any information you need.
 
-Livingroom
-To use the TV set, open the cabinet and turn on the red power switch. Then use the
-Samsung remote to choose source. The digital box is on ‘Ext.’ and you change
-channels with the Motorola remote. The Apple TV is on ’HDMI1’ and the PS3 on
-‘HDMI2’.
+## Bedrooms
 
-Our WiFi is called ’BigHero6-fast’ and the password is ‘oriavehl’. In case of
-connectivity issues try powering off and on the router which you find in the small
-office behind our bedroom.
+We made the beds with clean linen. At the end of the stay you can just strip the beds and put them in the bathroom, and we will take care or the washing up.
 
-Places
-We’ve put together a map of different places in our neighborhood and around
-Stockholm. Everything from grocery stores to museums and outdoor activities.
+## Bathroom
+There are clean towels in the wall cabinet. The washing powder is also in the cabinet.
+
+## Kitchen
+
+Recycling is divided into regular trash, food scraps (brown paper bags), plastics, metal, batteries, glass, colored glass, paper and cardboard.
+The bins are underneath the sink, except for paper/cardboard which are in the linen cupboard, opposite Vide’s room.
+The garbage room is to the right of the entrance of the opposite building, number 34, and you use the apartment key to get in.
+There is also a percolator for coffee in the cupboard above the freezer.
+Please take what you like in the cupboard, fridge and freezer.
+
+## Livingroom
+
+To use the TV set, open the cabinet and turn on the red power switch. Then use the Samsung remote to choose source.
+The digital box is on ‘Ext.’ and you change channels with the Motorola remote.
+The Apple TV is on ’HDMI1’ and the PS3 on ‘HDMI2’.
+
+Our WiFi is called ’BigHero6’ and the password is ‘oriavehl’. In case of connectivity issues try powering the router off and on again.
+The router is in the closet behind our bedroom.
+
+## Patio
+
+There's been construction work on our building during may-june, and it's not yet finished.
+I think the patio will be in ok shape by the time you arrive, but I don't think the furniture will be put back in place by the construction workers.
+If you want to sit there you can just arrange the sofa and the table so that you can use them.
+
+## Places to visit
+
+We’ve put together a map of different places in our neighborhood and around Stockholm.
+Everything from grocery stores to museums and outdoor activities.
 https://goo.gl/WgcPY5
 
 We hope you will enjoy your stay!
