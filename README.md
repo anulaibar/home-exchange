@@ -58,7 +58,7 @@ If you want to sit there you can just arrange the sofa and the table so that you
 
 We’ve put together a map of different places in our neighborhood and around Stockholm.
 Everything from grocery stores to museums and outdoor activities.
-https://goo.gl/WgcPY5
+[Check it out!](https://drive.google.com/open?id=1NGujzVNI1lADjlOzOTOPcUww1ncUwS1S&usp=sharing)
 
 
 We hope you will enjoy your stay!
