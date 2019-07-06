@@ -27,6 +27,7 @@ Perhaps there are also replacement buses, the information desk can give you any 
 ### Bedrooms
 
 We made the beds with clean linen. At the end of the stay you can just strip the beds and put them in the bathroom, and we will take care or the washing up.
+There are extra linens in the closet facing Vide and Egils room in case you need it.
 
 ### Bathroom
 There are clean towels in the wall cabinet. The washing powder is also in the cabinet.
@@ -34,9 +35,10 @@ There are clean towels in the wall cabinet. The washing powder is also in the ca
 ### Kitchen
 
 Recycling is divided into regular trash, food scraps (brown paper bags), plastics, metal, batteries, glass, colored glass, paper and cardboard.
-The bins are underneath the sink, except for paper/cardboard which are in the linen cupboard, opposite Vide’s room.
+The bins are underneath the sink, except for paper/cardboard which are in the linen cupboard, opposite Vide and Egils room.
 The garbage room is to the right of the entrance of the opposite building, number 34, and you use the apartment key to get in.
-There is also a percolator for coffee in the cupboard above the freezer.
+Powder for the dishwasher is in the cupboard above the dishwasher.
+There is a percolator for coffee in the cupboard above the freezer.
 Please take what you like in the cupboard, fridge and freezer.
 
 ### Livingroom
@@ -45,7 +47,7 @@ To use the TV set, open the cabinet and turn on the red power switch. Then use t
 The digital box is on ‘Ext.’ and you change channels with the Motorola remote.
 The Apple TV is on ’HDMI1’ and the PS3 on ‘HDMI2’.
 
-Our WiFi is called ’BigHero6’ and the password is ‘oriavehl’. In case of connectivity issues try powering the router off and on again.
+Our WiFi is named ’BigHero6’ and the password is ‘oriavehl’. In case of connectivity issues try powering the router off and on again.
 The router is in the closet behind our bedroom.
 
 ### Patio
@@ -53,6 +55,7 @@ The router is in the closet behind our bedroom.
 There's been construction work on our building during may-june, and it's not yet finished.
 I think the patio will be in ok shape by the time you arrive, but I don't think the furniture will be put back in place by the construction workers.
 If you want to sit there you can just arrange the sofa and the table so that you can use them.
+Or just go take your morning coffee on the stairs by the playground which we often do.
 
 ### Places to visit
 
