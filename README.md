@@ -1,3 +1,8 @@
+---
+title: This is my title
+layout: post
+---
+
 # Welcome to our home, we hope you will enjoy your stay!
 
 Our address is Odelbergsvägen 36, Enskede gård.
