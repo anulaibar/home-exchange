@@ -60,11 +60,20 @@ I think the patio will be in ok shape by the time you arrive, but I don't think 
 If you want to sit there you can just arrange the sofa and the table so that you can use them.
 Or just go take your morning coffee on the stairs by the playground which we often do.
 
+### Bikes
+
+I guess you won't take Tijl on a bike ride, but my black _Crescent_ is available for you.
+The key is in the hall - it has a red and white cord that says _Ongame_.
+There's a child seat either on the bike or in the storage room opposite our front door, use the apartment key to get in.
+
 ### Places to visit
 
 We’ve put together a map of different places in our neighborhood and around Stockholm.
 Everything from grocery stores to museums and outdoor activities.
 [Check it out!](https://drive.google.com/open?id=1NGujzVNI1lADjlOzOTOPcUww1ncUwS1S&usp=sharing)
+
+Let us know if there are any special things you like to do - we'd love to give you additional tips!
+In the book shelf to the left of the TV set you find books and brochures about Stockholm and surroundings.
 
 
 We hope you will enjoy your stay!
