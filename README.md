@@ -1,4 +1,4 @@
-Our address is Odelbergsvägen 36, Enskede gård.
+Our home is at [Odelbergsvägen 36, Enskede gård](https://goo.gl/maps/isqoTqnuZBR3AW246).
 
 The entry code for the front door is **1472** and works until 10 PM - after that you use the apartment key to enter.
 
