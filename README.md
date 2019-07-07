@@ -30,13 +30,15 @@ We made the beds with clean linen. At the end of the stay you can just strip the
 There are extra linens in the closet facing Vide and Egils room in case you need it.
 
 ### Bathroom
+
 There are clean towels in the wall cabinet. The washing powder is also in the cabinet.
 
 ### Kitchen
 
-Recycling is divided into regular trash, food scraps (brown paper bags), plastics, metal, batteries, glass, colored glass, paper and cardboard.
-The bins are underneath the sink, except for paper/cardboard which are in the linen cupboard, opposite Vide and Egils room.
+Recycling is divided into regular waste, food scraps (brown paper bags), plastics, metal, batteries, glass, colored glass, paper and cardboard.
+Paper/cardboard bins are in the linen cupboard, opposite Vide and Egils room.
 The garbage room is to the right of the entrance of the opposite building, number 34, and you use the apartment key to get in.
+
 Powder for the dishwasher is in the cupboard above the dishwasher.
 There is a percolator for coffee in the cupboard above the freezer.
 Please take what you like in the cupboard, fridge and freezer.
