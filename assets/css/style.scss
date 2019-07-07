@@ -4,3 +4,5 @@
 @import "{{ site.theme }}";
 
 #forkme_banner { display: none !important }
+
+img { max-width: 500px; border-radius: 4px; }
