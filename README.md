@@ -68,4 +68,4 @@ Everything from grocery stores to museums and outdoor activities.
 
 We hope you will enjoy your stay!
 
-![Olle, Rebecca, Irja, Alvar, Vide & Egil](https://photos.google.com/photo/AF1QipNYjS_WkUPan7f4LAqo34n-e5clRzAgtPdE35-M "Olle, Rebecca, Irja, Alvar, Vide & Egil")
+![Olle, Rebecca, Irja, Alvar, Vide & Egil](/images/family.JPG "Olle, Rebecca, Irja, Alvar, Vide & Egil")
