@@ -46,10 +46,10 @@ Please take what you like in the cupboard, fridge and freezer.
 ### Livingroom
 
 To use the TV set, open the cabinet and turn on the red power switch. Then use the Samsung remote to choose source.
-The digital box is on ‘Ext.’ and you change channels with the Motorola remote.
-The Apple TV is on ’HDMI1’ and the PS3 on ‘HDMI2’.
+The digital box is on _Ext._ and you change channels with the Motorola remote.
+The Apple TV is on _HDMI1_ and the PS3 on _HDMI2_.
 
-Our WiFi is named ’BigHero6’ and the password is ‘oriavehl’. In case of connectivity issues try powering the router off and on again.
+Our WiFi is named _BigHero6_ and the password is _oriavehl_. In case of connectivity issues try powering the router off and on again.
 The router is in the closet behind our bedroom.
 
 ### Patio
