@@ -3,7 +3,8 @@ Our home is at [Odelbergsvägen 36, Enskede gård](https://goo.gl/maps/isqoTqnuZ
 The entry code for the front door is **1472** and works until 10 PM - after that you use the apartment key to enter.
 
 The key to our apartment is at our neighbours place - Jimmy Jansson & Victoria Nordahl.
-They are on vacation, but their son Julius is at home and ready to hand you the keys.
+They live in the opposite buildning - #34 - on the second floor. Use the same entry code - **1472** - to get in.
+Jimmy and Victoria are on vacation, but their son Julius is at home and ready to hand you the keys.
 He's expecting you at 3 pm on the 12th. His phone number is [072 248 16 07](tel:072 248 16 07).
 
 ### Public transport
