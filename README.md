@@ -20,7 +20,7 @@ To get to our home you take any south bound commuter train from _Södra station_
 Get off at _Linde_ tram stop and walk 700 m to our home.
 
 Our closest subway stop is _Enskede Gård_, 100 meters from our home.
-It’s on the green line **#19** towards _Hagsätra_. Unfortunately line #19 is closed between _Globen_ and _Gullmarsplan_ for construction work during summer.
+It’s on the green line **#19** towards _Hagsätra_. Unfortunately the line is closed between _Globen_ and _Gullmarsplan_ for construction work during summer.
 When going into the city you can take the subway from _Enskede gård_ to _Globen_ and then walk the one stop from _Globen_ to _Gullmarsplan_ - around 600 meters.
 Or, you can take the _tvärbanan_ tram three stops from _Linde_ to _Gullmarsplan_ and then change to subway.
 
