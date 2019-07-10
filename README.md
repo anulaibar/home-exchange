@@ -13,16 +13,18 @@ Stockholm Local traffic, SL:
   - [Trip planner](http://sl.se/en/)
   - [Fares](http://sl.se/en/fares--tickets/)
 
-You ned an _access card_ for public transport which you buy for 20 SEK at the infomation desk at the central station where you arrive with your train.
-The information desk is located one floor down from the central station main hall.
+You need an _access card_ for public transport which you buy for 20 SEK at the entrance at _Södra station_ where you arrive with your train.
 The access card can then be charged with travel credits - “reskassa” - at the vending machines available at subway gates.
 
-Our closest subway stop is _Enskede Gård_, 100 meters from our home.
+To get to our home you take any south bound commuter train from _Södra station_. Get off at _Årstaberg_ and change to the _tvärbanan_ tram towards _Sickla_.
+Get off at _Linde_ tram stop and walk 700 m to our home.
+
+Otherwise our closest subway stop is _Enskede Gård_, 100 meters from our home.
 It’s on the green line **#19** towards _Hagsätra_
 
-Unfortunately line #19 is closed between _Gullmarsplan_ and _Globen_ for construction work during summer.
-You can either walk the one stop from _Gullmarsplan_ to _Globen_ - around 600 meters - and then take the subway again another stop from _Globen_ to _Enskede Gård_.
-Or, you can take the _tvärbanan_ tram three stops from _Gullmarsplan_ to _Linde_ and then walk from there, ~700 meters to our apartment.
+Unfortunately line #19 is closed between _Globen_ and _Gullmarsplan_ for construction work during summer.
+You can either walk the one stop from _Globen_ to _Gullmarsplan_ - around 600 meters - and then take the subway again.
+Or, you can take the _tvärbanan_ tram three stops from _Linde_ to _Gullmarsplan_ and then change to subway.
 Perhaps there are also replacement buses, the information desk can give you any information you need.
 
 ### Bedrooms
