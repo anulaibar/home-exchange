@@ -17,7 +17,7 @@ You need an _access card_ for public transport which you buy for 20 SEK at the e
 The access card can then be charged with travel credits - “reskassa” - at the vending machines available at subway gates.
 
 To get to our home you take any south bound commuter train from _Södra station_. Get off at _Årstaberg_ and change to the _tvärbanan_ tram towards _Sickla_.
-Get off at _Linde_ tram stop and walk 700 m to our home.
+Get off at _Linde_ tram stop and walk 700 m to our home. [Check out directions](https://maps.app.goo.gl/Rf8esnCzxaSwK9yYA).
 
 Our closest subway stop is _Enskede Gård_, 100 meters from our home.
 It’s on the green line **#19** towards _Hagsätra_. Unfortunately the line is closed between _Globen_ and _Gullmarsplan_ for construction work during summer.
