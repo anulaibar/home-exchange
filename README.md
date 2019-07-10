@@ -7,7 +7,7 @@ They live in the opposite buildning - #34 - on the second floor. Use the same en
 Jimmy and Victoria are on vacation, but their son Julius is at home and ready to hand you the keys.
 He's expecting you at 3 pm on the 12th. His phone number is [072 248 16 07](tel:072 248 16 07).
 
-### [Public transport](#public-transport)
+### Public transport
 
 Stockholm Local traffic, SL:
   - [Trip planner](http://sl.se/en/)
