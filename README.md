@@ -1,9 +1,5 @@
 Our home is at [Odelbergsvägen 36, Enskede gård](https://goo.gl/maps/isqoTqnuZBR3AW246).
 
-The entry code for the front door is **** and works until 10 PM - after that you use the apartment key to enter.
-
-The key to our apartment is at our neighbours place.
-
 ### Public transport
 
 Stockholm Local traffic, SL:
